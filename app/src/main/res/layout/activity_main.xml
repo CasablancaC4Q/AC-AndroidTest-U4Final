@@ -7,10 +7,14 @@
     android:orientation="vertical"
     tools:context="nyc.c4q.androidtest_unit4final.MainActivity">
 
+
+
     <LinearLayout
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
+
         <fragment
             android:id="@+id/info_fragment"
             android:name="nyc.c4q.androidtest_unit4final.InfoFragment"

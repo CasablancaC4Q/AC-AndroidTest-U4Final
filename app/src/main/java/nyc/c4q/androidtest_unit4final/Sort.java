@@ -6,7 +6,7 @@ import java.util.List;
  * Created by justiceo on 1/7/18.
  */
 
-public class Sort {
+public class Sort  {
 
     /**
      * Sorts a list using the selection sort algorithm.
